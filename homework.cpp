@@ -27,7 +27,7 @@ int main(){
     int insert;
     int del;
     int number;
-    cout << " input insert array:" << endl;
+    cout << " input index of insert array:" << endl;
     cin >> insert;
     cout <<"input number you want to insert:"<<endl;
     cin >> number;
